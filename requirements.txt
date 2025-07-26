@@ -1,0 +1,9 @@
+psycopg2-binary
+jupyter
+ipykernel
+pandas
+sqlalchemy
+ipython-sql
+prettytable
+
+

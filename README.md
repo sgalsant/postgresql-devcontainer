@@ -85,4 +85,4 @@ psql -h db -U admin -c "CREATE DATABASE alumnos;"
 
 ## ✅ Créditos
 
-Plantilla desarrollada por [Tu Nombre o Centro Educativo] para prácticas de base de datos con PostgreSQL en entorno aislado y reproducible.
+Plantilla desarrollada por SGALSANT para prácticas de base de datos con PostgreSQL en entorno aislado y reproducible.
